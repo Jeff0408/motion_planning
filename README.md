@@ -1,15 +1,12 @@
 # Motion Planning
 
-#############################
 1. main.py contains examples of how to load and display the 7 environments and how to call a motion planner and plot the planned path.  
-
-#############################
+  
 2. planner.py contains my A* algorithm and funtion I used in this algorithm  
-
-#############################
+  
 3. rrt_3d in the file I run rrt algorithm library which provided by professor  
 Here is the link of rrt-algorithm library https://github.com/motion-planning/rrt-algorithms  
-
+  
 ## Requirements
 - [Python 3+](https://www.python.org/downloads/)  
 - [NumPy](http://www.numpy.org/)  
