@@ -17,3 +17,9 @@ To run this py you should download the library first, and set up the dictionary 
 To plot successfully, you should modify the plotting py in ..\..\..\src\utilities  
   
 ## Result
+A* algorithm  
+![image](https://github.com/Jeff0408/motion_planning/blob/main/pics/1-page-001.jpg)  
+![image](https://github.com/Jeff0408/motion_planning/blob/main/pics/1-page-002.jpg)  
+RRT algorithm  
+![image](https://github.com/Jeff0408/motion_planning/blob/main/pics/1-page-003.jpg)  
+![image](https://github.com/Jeff0408/motion_planning/blob/main/pics/1-page-004.jpg)
